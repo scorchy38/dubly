@@ -1,6 +1,4 @@
 moviepy==1.0.3
-requests==2.26.0
-googletrans==4.0.0-rc1
-gTTS==2.2.3
-imageio[ffmpeg]==2.9.0
 openai
+pydub==0.25.1
+requests==2.26.0
